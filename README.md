@@ -5,7 +5,7 @@ Bash script template including parameters, options, and ini.
 ## Result
 
 ```console
- test_dir/my_script.sh -ab
+$ test_dir/my_script.sh -ab
 FLAG_A=1
 FLAG_B=1
 FLAG_C=
